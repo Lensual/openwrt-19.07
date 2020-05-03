@@ -32,13 +32,13 @@ openwrt-v2ray
 >Network -> Project V -> v2ray-core
 
 LuCI
-luci-app-v2ray
-luci-app-unblockmusic
-luci-app-vlmcsd
-luci-app-pppoe-relay
-luci-app-ssrserver-python
-luci-proto-bonding
-luci-app-ramfree
+* luci-app-v2ray
+* luci-app-unblockmusic
+* luci-app-vlmcsd
+* luci-app-pppoe-relay
+* luci-app-ssrserver-python
+* luci-proto-bonding
+* luci-app-ramfree
 
 # 20200503
 
@@ -46,17 +46,17 @@ luci-app-ramfree
 镜像大小修改至512MB
 
 移除软件包
-luci-app-mwan3 #1
+* luci-app-mwan3 #1
 
 新增软件包
-curl
-luci-app-vlmcsd
+* curl
+* luci-app-vlmcsd
 
 新增软件包 by [coolsnowwolf](https://github.com/coolsnowwolf/lede)
-luci-app-pppoe-relay
-luci-app-ssrserver-python
-luci-proto-bonding
-luci-app-ramfree
+* luci-app-pppoe-relay
+* luci-app-ssrserver-python
+* luci-proto-bonding
+* luci-app-ramfree
 
 # 20200424
 
