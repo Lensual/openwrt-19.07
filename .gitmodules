@@ -1,0 +1,21 @@
+[submodule "package/fullconenat"]
+	path = package/fullconenat
+	url = https://github.com/LGA1150/openwrt-fullconenat.git
+[submodule "package/luci-app-unblockmusic"]
+	path = package/luci-app-unblockmusic
+	url = https://github.com/maxlicheng/luci-app-unblockmusic.git
+[submodule "package/v2ray-core"]
+	path = package/v2ray-core
+	url = https://github.com/kuoruan/openwrt-v2ray.git
+[submodule "package/openwrt-upx"]
+	path = package/openwrt-upx
+	url = https://github.com/kuoruan/openwrt-upx.git
+[submodule "package/luci-app-v2ray"]
+	path = package/luci-app-v2ray
+	url = https://github.com/kuoruan/luci-app-v2ray.git
+[submodule "package/luci-app-vlmcsd"]
+	path = package/luci-app-vlmcsd
+	url = https://github.com/mchome/luci-app-vlmcsd.git
+[submodule "package/openwrt-vlmcsd"]
+	path = package/openwrt-vlmcsd
+	url = https://github.com/mchome/openwrt-vlmcsd.git
