@@ -40,6 +40,23 @@ LuCI
 * luci-proto-bonding
 * luci-app-ramfree
 
+# 20200609
+修复添加fullcone对luci-app-firewall的patch
+
+修改zlib编译配置为速度优化
+
+添加luci语言zh-cn
+
+移除mwan3，之前没有移除干净
+
+添加luci主题material
+
+opkg默认为清华https镜像源
+
+添加软件包
+* openvpn-openssl
+* openvpn-easy-rsa
+
 # 20200503
 
 从上游分支pull更新
